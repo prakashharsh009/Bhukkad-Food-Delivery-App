@@ -21,5 +21,3 @@
 
 
 
-### To run this application , install expo app in your android/ios device and then after downloading the code , run "EXPO-INIT" and "NPM-START"
-and then scan the QR code on the terminal through the expo app installed on your android/ios device.
